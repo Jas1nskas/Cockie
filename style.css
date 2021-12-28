@@ -1,0 +1,82 @@
+
+body {
+    margin: 0;
+    font-family: monospace;
+}
+
+.menu {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;}
+
+.button{
+    border: 5px solid brown;
+    padding: 20px;
+    font-size: 20px;
+    text-align: center;
+    color: brown;}
+
+.game{
+    background-color: #7cee6b;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: none;
+    flex-direction: column;
+    margin-top: 20px;
+
+}
+
+img {
+    height: 200px;
+    cursor: pointer;
+}
+
+
+
+.shop{
+    height: 100vh;
+    background-color: #efb246;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+
+.upgradebtn{
+    height: 100px;
+    width: 500px;
+    border: brown solid 5px;
+    margin: 5px ;
+    font-size: 25px;
+    cursor: pointer;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.backbutton{
+    height: 50px;
+    width: 100px;
+    border: brown 5px solid;
+
+
+}
+
+.shopbutton{
+    height: 50px;
+    width: 150px;
+    border:5px solid brown;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: brown;
+    cursor: pointer;
+}
+
+
