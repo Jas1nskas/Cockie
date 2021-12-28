@@ -208,3 +208,6 @@ console.log("pirmas commitas")
 
 
 console.log("antras commitas")
+
+
+console.log("trecias commitas")
