@@ -202,3 +202,9 @@ back.onclick = () => {
 // newcockie.onclick = () => {
 //
 // }
+
+
+console.log("pirmas commitas")
+
+
+console.log("antras commitas")
